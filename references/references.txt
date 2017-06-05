@@ -1,0 +1,6 @@
+Some references to shell information
+
+https://google.github.io/styleguide/shell.xml
+http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming
+https://jvns.ca/blog/2017/03/26/bash-quirks
+
