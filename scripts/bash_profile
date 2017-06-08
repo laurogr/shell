@@ -3,6 +3,7 @@
 # Description: bash profile with useful commands 
 
 #exports
+export PS1="[\u]@[\h]:[\w] $ "
 export DEVHOME=/Users/laurodarocha/Documents/workspace/
 
 #alias
