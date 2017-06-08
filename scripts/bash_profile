@@ -1,0 +1,12 @@
+# Author: lgoncalvesdarocha
+# Date: 08/06/17 (dd/mm/yy)
+# Description: bash profile with useful commands 
+
+#exports
+export DEVHOME=/Users/laurodarocha/Documents/workspace/
+
+#alias
+alias ll='ls -lhrt'
+
+
+
