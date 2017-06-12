@@ -1,0 +1,31 @@
+#Useful commands: daily use
+
+
+#fiding
+find . -name "toto"
+find . -type f -print | xargs grep -ns "tata"
+
+#replacing
+tr ":" "\n"
+
+#basic awk
+awk '{print $3}'
+
+#files
+du -sh .
+df -h
+df -h .
+
+#compression
+tar -xvf 
+tar -cvf origine.txt.tar origine.txt
+gzip fichier.tar
+gunzip fichier.tar.zip
+
+#other
+type
+nm -A
+
+
+
+
